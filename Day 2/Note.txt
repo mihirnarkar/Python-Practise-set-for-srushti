@@ -1,0 +1,8 @@
+Hey srushti today you are going learn
+1) Data Types in python
+2) How to store values in python
+3) Print function along with use of 'f' string
+4) Create a function and how to pass a value in the function
+5) Finally print the value of a function
+
+Complete all this because {Mihir Loves you}
