@@ -1,0 +1,2 @@
+Today, you have to first solve the exercise
+For exercise -> check Exercise.py
