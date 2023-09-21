@@ -1,0 +1,48 @@
+               ****************** House Price Checker ***********************
+
+Create a Java program that allows a user to check the price of a house by entering its name. You'll define a few houses with their names and prices in the program.
+
+
+Here are the requirements for the program:
+
+Create a class called House with the following attributes:
+
+1) String name (Name of the house)
+2) int price (Price of the house)
+3) Define three House objects with different names and prices in your main program.
+
+
+Implement a console-based menu with the following options:
+
+Check house price by name.
+Exit the program.
+When the user selects "Check house price by name," they should be prompted to enter the name of a house, and the program should display the price of that house. If the entered name does not match any of the predefined houses, display an error message.
+
+Keep running the program until the user chooses to exit.
+
+
+****************** Your output must match like these **********************
+
+Welcome to the House Price Checker!
+
+Available Houses:
+1. House A - $150,000
+2. House B - $200,000
+3. House C - $180,000
+
+1. Check house price by name
+2. Exit
+
+Please select an option: 1
+Enter the name of the house: House B
+
+The price of House B is $200,000.
+
+Please select an option: 1
+Enter the name of the house: House D
+
+Sorry, House D is not available in our listings.
+
+Please select an option: 2
+Goodbye!
+
