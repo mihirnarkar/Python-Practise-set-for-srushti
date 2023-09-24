@@ -1,0 +1,55 @@
+***************  Basic Calculator *****************
+
+Create a Java program that acts as a basic calculator. The program should allow the user to perform simple arithmetic operations on two numbers.
+
+Here are the requirements for the program:
+
+Implement a console-based menu with the following options:
+
+Add two numbers.
+Subtract two numbers.
+Multiply two numbers.
+Divide two numbers.
+Exit the program.
+When the user selects any of the arithmetic operations, they should be prompted to enter two numbers.
+
+Perform the selected operation on the two numbers and display the result.
+
+Handle division by zero by displaying an error message.
+
+Keep running the program until the user chooses to exit.
+
+
+
+
+
+Sample Output :
+
+Welcome to the Basic Calculator!
+
+1. Add two numbers
+2. Subtract two numbers
+3. Multiply two numbers
+4. Divide two numbers
+5. Exit
+
+Please select an option: 1
+Enter the first number: 10
+Enter the second number: 5
+
+Result: 10 + 5 = 15
+
+Please select an option: 3
+Enter the first number: 8
+Enter the second number: 3
+
+Result: 8 * 3 = 24
+
+Please select an option: 4
+Enter the first number: 12
+Enter the second number: 0
+
+Error: Division by zero is not allowed.
+
+Please select an option: 5
+Goodbye!
